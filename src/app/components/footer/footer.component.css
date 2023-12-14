@@ -1,0 +1,11 @@
+#footer-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:#61A3BA;
+}
+#footer-header .container li{
+    
+    list-style: none;}
+    #footer-header .container li a{
+    
+        color:#FFF}
